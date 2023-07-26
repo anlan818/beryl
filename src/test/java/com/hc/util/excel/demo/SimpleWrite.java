@@ -66,8 +66,6 @@ public class SimpleWrite {
                     // 分页查询数据
                     return data();
                 });
-
-
     }
 
 
