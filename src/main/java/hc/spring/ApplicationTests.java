@@ -1,4 +1,4 @@
-package com.hc.spring;
+package hc.spring;
 
 import org.apache.tomcat.util.codec.binary.Base64;
 import org.junit.jupiter.api.Test;

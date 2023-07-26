@@ -1,4 +1,4 @@
-package com.hc.java.java8.demo;
+package hc.java.java8.demo;
 
 
 import lombok.*;

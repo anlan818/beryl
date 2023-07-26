@@ -1,4 +1,4 @@
-package com.hc.java.java8;
+package hc.java.java8;
 
 import java.util.Optional;
 

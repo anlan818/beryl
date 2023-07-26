@@ -1,4 +1,4 @@
-package com.hc.util.excel.data;
+package hc.util.excel.data;
 
 import com.alibaba.excel.annotation.ExcelIgnore;
 import com.alibaba.excel.annotation.ExcelProperty;

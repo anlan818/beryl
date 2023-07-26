@@ -1,4 +1,4 @@
-package com.hc.spring.transaction;
+package hc.spring.transaction;
 
 public class Transaction {
     

@@ -1,4 +1,4 @@
-package com.hc.util.excel.util;
+package hc.util.excel.util;
 
 import org.apache.commons.collections4.CollectionUtils;
 
